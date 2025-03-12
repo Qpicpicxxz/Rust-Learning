@@ -1,3 +1,9 @@
+命名规范
+- Snake Case蛇形命名法: `user_name`, `get_user_info`
+- Camel Case驼峰命名法: `userName`, `getUserinfo`
+- Pascal Case帕斯卡命名法: `UserName`, `GetUserInfo`
+- Kabab Case短横线命名法: `user-name`, `get-user-info`
+
 关键字Keywords
 - `const` 常量/不变裸指针(直接使用内存地址的指针)
 - `let` 绑定一个变量
